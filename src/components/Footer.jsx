@@ -114,7 +114,10 @@ const Footer = () => {
             <h4 className="text-lg font-bold text-teal-400">Links</h4>
             <ul className="text-gray-100 montserrat pt-2 space-y-1">
               <li>
-                <a href="#" className="hover:border-b-2 border-teal-400">
+                <a
+                  href="https://github.com/Nandaxy/portofolio"
+                  className="hover:border-b-2 border-teal-400"
+                >
                   Source Code
                 </a>
               </li>
