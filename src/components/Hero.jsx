@@ -6,7 +6,7 @@ const Hero = () => {
     <div className="min-h-[95vh] md:min-h-screen max-h-screen w-full bg-main-bg flex justify-center items-center">
       <div className="flex justify-center items-center flex-col px-4">
         <img
-          src="logo2.png"
+          src="logo2.jpg"
           alt="logo Nandaxy"
           className="rounded-full w-40 h-40 border-4 border-gray-800 shadow"
         />
