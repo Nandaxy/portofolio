@@ -30,11 +30,20 @@ const data = {
         "Website mengupload dan  menyimpan gambar di server dan dapat digunakan untuk menautkan gamabar di website anda sendiri",
       technologies: ["nodejs.webp", "html.webp"],
     },
+        {
+      name: "Jadwal Sholat Indonesia",
+      image: "/projects/project3.jpg",
+      url: "https://github.com/Nandaxy/jadwal-sholat-indonesia",
+      demo: "https://jadwal-sholat-indonesia.vercel.app/",
+      description:
+        "Jadwal Sholat indonesia, Terupdate",
+      technologies: ["react.png", "tailwind.webp"],
+    },
   ],
   certifications: [
     {
       name: "Olimpiade Jaringan MikroTik 2023",
-      course: "Parisipasi",
+      course: "Partisipasi",
       time: "2023",
       downloads: "#",
     },

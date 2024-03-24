@@ -21,11 +21,7 @@ const About = () => {
           </div>
           <div className="mt-6 px-4  font-light opacity-80 text-gray-400 text-sm poppins">
             <p>
-              Halo semuanya! Nama saya Nanda Ilham Buqori. Saya seorang
-              Programmer Pemula dan saya suka dengan hal hal yang baru,
-              Penggemar Perangkat Lunak Bebas dan Sumber Terbuka. Saya tinggal
-              di Indramayu, Indonesia. Saya lahir di Indramayu pada tanggal 13
-              Oktober 2006.
+              Halo semuanya! Nama saya Nanda Ilham Buqori.
             </p>
             <p className="pt-4">
               Saya memiliki minat untuk terus belajar lebih banyak. Saya telah

@@ -17,6 +17,9 @@ const CardProject = () => {
             <div className="flex justify-between items-center pr-4 py-2">
               <p className="font-bold">{project.name}</p>
               <div className="flex items-center space-x-3">
+               <a href={project.url} className="text-sm">
+                  &lt;/&gt;
+                </a>
                 {project.demo && (
                   <a href={project.demo}>
                     <svg
@@ -32,9 +35,7 @@ const CardProject = () => {
                     </svg>
                   </a>
                 )}
-                <a href={project.url} className="text-sm">
-                  &lt;/&gt;
-                </a>
+
               </div>
             </div>
             <p className="font-light text-gray-400 text-sm">

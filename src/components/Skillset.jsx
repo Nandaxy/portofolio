@@ -36,6 +36,11 @@ const Skillset = () => {
               alt="tailwind"
               className="w-16 h-16 transition-all grayscale hover:grayscale-0"
             />
+            <img 
+              src="react.png"
+              alt="react"
+              className="w-16 h-16 transition-all grayscale hover:grayscale-0"
+              />
           </div>
         </div>
 
